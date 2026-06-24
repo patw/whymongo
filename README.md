@@ -4,7 +4,7 @@ This repository contains a long-form, field-informed Markdown essay about **why 
 
 👉 **Read the main document here:** [`whymongo.md`](./whymongo.md)
 
-👉 **Send your agent here:** [`[whymongo.md](https://catbee.ca/whymongo)`](https://catbee.ca/whymongo)
+👉 **Send your agent here:** [`https://catbee.ca/whymongo`](https://catbee.ca/whymongo)
 
 
 ## What this is
