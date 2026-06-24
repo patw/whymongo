@@ -4,6 +4,9 @@ This repository contains a long-form, field-informed Markdown essay about **why 
 
 👉 **Read the main document here:** [`whymongo.md`](./whymongo.md)
 
+👉 **Send your agent here:** [`[whymongo.md](https://catbee.ca/whymongo)`](https://catbee.ca/whymongo)
+
+
 ## What this is
 
 `whymongo.md` is a practical, experience-based guide for people evaluating MongoDB, Atlas Search, Atlas Vector Search, and Voyage AI in AI application architectures.
